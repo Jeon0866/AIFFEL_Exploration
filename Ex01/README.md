@@ -3,7 +3,7 @@
 - 리뷰어 : 본인의 이름을 작성하세요.
 
 
-# PRT(PeerReviewTemplate)
+# PRT(PeerReviewTemplate) 
 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
 
 - [ ] 코드가 정상적으로 동작하고 주어진 문제를 해결했나요?
